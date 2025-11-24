@@ -155,7 +155,7 @@ Dataset dapat diunduh dari:
 
 ## 👤 Author
 
-**Abd Rahman Dzaky – Magister Sains Data**  
+**Naufal Fattah Rizqi – Magister Sains Data**  
 GitHub: https://github.com/serbetwarung
 
 ---
