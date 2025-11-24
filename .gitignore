@@ -1,0 +1,24 @@
+# Model besar
+*.h5
+*.hdf5
+*.pb
+
+# Folder simpan model & eksperimen
+saves/
+saves_enhanced/
+
+# Dataset lokal
+brain_tumor_dataset/
+dataset/
+data/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+tf-gpu/
+
+# VS Code settings
+.vscode/
